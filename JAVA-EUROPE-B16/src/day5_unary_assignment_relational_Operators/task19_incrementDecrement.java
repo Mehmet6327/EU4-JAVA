@@ -1,0 +1,41 @@
+package day5_unary_assignment_relational_Operators;
+
+public class task19_incrementDecrement {
+
+	public static void main(String[] args) {
+	
+		
+		
+		
+		int a = 50;
+		int result = --a  + a++  +  a--  + a++;
+		
+		// a in memory : 50 - > 49 - > 50 - > 49 - > v50
+		// result      : 49 + 49 + 50 + 49 = 197
+		
+		
+		// --a = pre it means change the memory
+		
+		// a++ = post it means first implement the line then change the memory
+		
+		//isaretler solda kaliyorsa PRE
+		//isaretler sagda kaliyorsa POST
+		
+		System.out.println("a = " + a );
+		System.out.println("result = " + result );
+
+		
+		
+			
+		
+	
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

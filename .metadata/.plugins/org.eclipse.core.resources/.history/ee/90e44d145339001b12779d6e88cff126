@@ -1,0 +1,14 @@
+package day38_Inheritance_Part2;
+
+public class SubClass1 {
+
+	/*
+	public SubClass1() {
+		System.out.println("This is the subclass constructor");
+		
+	}
+	*/
+	
+	
+	
+}
